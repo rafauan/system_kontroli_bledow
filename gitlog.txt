@@ -1,0 +1,8 @@
+0c39ba09da236919500ad7799d6eda2988478bae (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from rafauan/ofiary_agresji
+44d13e98ec3d08100a1c148e26ad17c4136b0917 (tag: v4.3, origin/ofiary_agresji, ofiary_agresji) Ustanowienie Dania Dzieci BOA
+de071fcda1cba20852005bc59d2b21416b4c6be5 MD Dzieci BOA
+1f32be40c05288abd48ff5b8a7a52f5a6ab71387 Merge pull request #1 from rafauan/environment
+c21e68852e084a92741e75d832d69322360b17c3 (tag: v4.2) Deklaracja Sztokholmska
+f2d23c80834825f5a7cdbe113c3fe14677a73d57 Ustanowienie ŚDŚ
+3cea0a25d310ae0d2e22b93f79cd8db407c88ddb Światowy Dzień Środowiska
+b50608f8f7de86f68522617c894fa8ce3440e4a0 Pierwszy commit
